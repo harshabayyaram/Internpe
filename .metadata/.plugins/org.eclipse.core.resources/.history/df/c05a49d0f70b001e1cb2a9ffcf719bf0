@@ -1,0 +1,22 @@
+package com.harsha.internpe3;
+
+import java.uti.l*;
+
+public class NumberGuess {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		String play="yes";
+		
+		while(play.equals("yes")){
+			Random rand = new Random();
+			rand = sc.nextInt();
+		}
+		
+		
+		
+		sc.cllose();
+
+	}
+
+}
